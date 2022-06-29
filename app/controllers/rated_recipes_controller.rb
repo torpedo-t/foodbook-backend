@@ -1,2 +1,0 @@
-class RatedRecipesController < ApplicationController
-end
